@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fibonacciGame/static/css/main.073c9b0a.css",
+    "main.js": "/fibonacciGame/static/js/main.8b7f6bd3.js",
+    "static/js/787.7fc9e7bc.chunk.js": "/fibonacciGame/static/js/787.7fc9e7bc.chunk.js",
+    "index.html": "/fibonacciGame/index.html",
+    "main.073c9b0a.css.map": "/fibonacciGame/static/css/main.073c9b0a.css.map",
+    "main.8b7f6bd3.js.map": "/fibonacciGame/static/js/main.8b7f6bd3.js.map",
+    "787.7fc9e7bc.chunk.js.map": "/fibonacciGame/static/js/787.7fc9e7bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8b7f6bd3.js"
+  ]
+}
