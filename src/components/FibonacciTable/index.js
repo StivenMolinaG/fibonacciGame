@@ -23,7 +23,7 @@ export default function FibonacciTable({second, minute}) {
 const fibonacciResult = GenerateFibonacci(second,minute);
   return (
     <TableContainer component={Paper}>
-      <Table sx={{ minWidth: 650 }} aria-label="simple table">
+      <Table sx={{ minWidth: 300 }} aria-label="simple table">
         <TableHead>
           <TableRow>
             <TableCell align="center">Reference Points</TableCell>
